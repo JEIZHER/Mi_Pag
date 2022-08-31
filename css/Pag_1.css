@@ -1,0 +1,35 @@
+body
+    {
+        color:green;
+        font-family:"Curier";
+        font-size: 15px;
+       /* margin: 0cm;*/
+        padding: 5 50 5 50;
+    }
+#cabecera
+    {
+        background: #33A;
+        box-shadow: 15px 10px 10px 0px rgba(0,0,0,0.5);
+        color: white;
+        font-weight: bold;
+        /*margin: 0;*/
+        padding: 5 50 5 50;
+        font-size: 30px;
+        
+    }
+#cabecera #tagline
+    {
+        padding: 0cm 0.5cm 0.5cm 0.5cm;
+        font-weight: normal;
+        font-size: 14px;
+       
+    }
+#container
+    {
+        width: 90%;
+        padding: 10 50 5 50;
+        border: 2px solid #DDD;
+       /* margin: 0.5cm auto;*/
+        text-align: left;
+    }
+
